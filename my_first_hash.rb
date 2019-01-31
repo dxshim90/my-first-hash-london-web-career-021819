@@ -1,5 +1,5 @@
 def my_hash
- programming = { "Ruby" => "Learning", "Javascript" => "Learning"
+ programming = { "Ruby" => "Learning", "Javascript" => "Learning" }
 end
 
 
